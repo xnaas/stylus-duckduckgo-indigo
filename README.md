@@ -26,3 +26,12 @@ Per [Reddit](https://www.reddit.com/r/duckduckgo/comments/m087gi/indigo_theme_up
     background-color: #1c1e2a !important;
 }
 ```
+
+## Screenshots
+
+![img](https://i.redd.it/rrsei65qiql61.png)
+![img](https://i.redd.it/j9u7375qiql61.png)
+![img](https://i.redd.it/wm4ld65qiql61.png)
+![img](https://i.redd.it/vyf9v65qiql61.png)
+![img](https://i.redd.it/rn373u5qiql61.png)
+![img](https://i.redd.it/amzk265qiql61.png)
