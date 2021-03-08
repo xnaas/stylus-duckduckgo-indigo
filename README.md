@@ -21,9 +21,8 @@ Per [Reddit](https://www.reddit.com/r/duckduckgo/comments/m087gi/indigo_theme_up
 > Also, FF folks: due to a bug in FF, you'll need to change the background color for the search dropdown to a hex value or an rgba value with 98% opacity or above.
 > 
 > 
-> ```
+```
 .has-zcm .acp-wrap {
     background-color: #1c1e2a !important;
 }
 ```
-> 
