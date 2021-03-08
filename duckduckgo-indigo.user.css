@@ -2,15 +2,14 @@
 @name          DuckDuckGo Indigo
 @namespace     github.com/xnaas/stylus-duckduckgo-indigo
 @homepageURL   https://github.com/xnaas/stylus-duckduckgo-indigo
-@version       1.0.0
+@version       1.0.1
 @updateURL     https://github.com/xnaas/stylus-duckduckgo-indigo/raw/master/duckduckgo-indigo.user.css
 @description   An indigo theme for DuckDuckGo
 @author        cscottyb
 ==/UserStyle== */
 
-
+@-moz-document domain("duckduckgo.com"){
 /* highlight color */
-
 .has-zcm ::-moz-selection, #pg-index.page-index.body--home::-moz-selection {
   background: #c3d0ff !important;
 }
@@ -1005,10 +1004,9 @@ padding-top: 36px !important;
 
 }/*end of dark*/
 
-
-
 #logo_homepage_link {
   width: 120px !important;
   background-position: bottom !important;
   /* height: 132px !important; */
+}
 }
