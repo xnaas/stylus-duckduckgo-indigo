@@ -2,7 +2,7 @@
 @name          DuckDuckGo Indigo
 @namespace     github.com/xnaas/stylus-duckduckgo-indigo
 @homepageURL   https://github.com/xnaas/stylus-duckduckgo-indigo
-@version       1.0.1
+@version       1.0.2
 @updateURL     https://github.com/xnaas/stylus-duckduckgo-indigo/raw/master/duckduckgo-indigo.user.css
 @description   An indigo theme for DuckDuckGo
 @author        cscottyb
@@ -593,7 +593,7 @@ a.js-carousel-module-more.module__footer::before{
   border: 1px solid transparent !important;
   -webkit-font-smoothing: auto !important;
 }
-.has-zcm ..dir-btn__link.btn:hover,
+.has-zcm .dir-btn__link.btn:hover,
 .has-zcm .module__clickable-header.js-about-item-clickable-header {
   background-color: #698bff33 !important;
 }
